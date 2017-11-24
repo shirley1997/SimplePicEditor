@@ -1,0 +1,106 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\ZedGraph.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe.config
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.exe
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.pdb
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.pdb
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\ZedGraph.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Form1.resources
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Properties.Resources.resources
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csproj.GenerateResource.Cache
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe.config
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.exe
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.pdb
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.pdb
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\ZedGraph.dll
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.xml
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csprojResolveAssemblyReference.cache
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Form1.resources
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Properties.Resources.resources
+C:\Users\devil\Downloads\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe.config
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.exe
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.pdb
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.exe
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\圖片美編特效.pdb
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\ZedGraph.dll
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\bin\x64\Debug\Emgu.Util.xml
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Form1.resources
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.Properties.Resources.resources
+C:\Users\User\Desktop\圖片美編特效\圖片美編特效\圖片美編特效\obj\x64\Debug\圖片美編特效.csproj.GenerateResource.Cache
